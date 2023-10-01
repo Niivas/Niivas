@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/nivasrn" target="_blank">
+  <a href="https://www.linkedin.com/in/nivasrn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/Tw1light/" target="_blank">
+  <a href="https://www.hackerrank.com/nivas6900" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="nivas6900@gmail.com" target="_blank">
+  <a href="mailto:nivas6900@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://leetcode.com/Tw1light/" target="_blank">
@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 ###
 
