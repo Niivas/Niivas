@@ -11,14 +11,14 @@
   <a href="https://www.hackerrank.com/nivas6900" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="mailto:nivas6900@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
   <a href="https://leetcode.com/Tw1light/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=matrix&label=&color=000000&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="matrix logo"  />
   </a>
   <a href="https://niivas.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Nivas&logo=signal&label=&color=039BE5&logoColor=blue&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
+  </a>
+  <a href="mailto:nivas6900@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
