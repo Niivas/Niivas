@@ -36,7 +36,7 @@
 
 ###
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20👋;こんにちは%20🙇🏻‍♂️;नमस्ते %20🙏&font=Fira%20Code&center=true&width=440&height=35&color=FFFFFF&vCenter=true&pause=1000&size=24", height = 30 />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20👋;こんにちは%20🙇🏻‍♂️;नमस्ते %20🙏&font=Fira%20Code&center=true&width=440&height=35&color=83DCEF&vCenter=true&pause=1000&size=24", height = 30 />
 </p>
 
 ###
