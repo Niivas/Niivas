@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Web%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=35&color=83DCEF&vCenter=true&pause=1000&size=22", height = 35 /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;Web%20Developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=35&color=83DCEF&vCenter=true&pause=1000&size=22", height = 35 /></a>
 </p>
 
 
