@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">I'm Nivas Reddy Nalla, a passionate developer from India.<br><br>- 🔭 I’m currently working as full-stack developer at Logistiq.<br>- 🌱 I’m currently learning MERN stack, low-level design, and backend development.<br>- 👯 I’m looking to collaborate on open-source projects. <br>- 💬 Ask me about python, math, DSA, web scraping... <br>- ⚡ Fun fact: 0.1+0.2 ≠ 0.3 it is 0.30000000000000004</p>
+<p align="left">I'm Nivas Reddy Nalla, a passionate developer from India.<br><br>- 🔭 I’m currently working as full-stack developer at Logistiq.<br>- 🌱 I’m currently learning MERN stack, and low-level design.<br>- 👯 I’m looking to collaborate on open-source projects. <br>- 💬 Ask me about python, math, DSA, web scraping... <br>- ⚡ Fun fact: 0.1+0.2 ≠ 0.3 it is 0.30000000000000004</p>
 
 ###
 
